@@ -4,18 +4,26 @@
 
 /* Color Palette */
 
-.class-1{
-color: aqua;
+.color-1 {
+background-color: red;
 }
-.class-1{
-background: #000;
+.color-2 {
+background-color: aqua;
 }
-.class-1{
-color: aqua;
+.color-3 {
+background-color: green;
 }
 /* Textures or Patterns*/
 
-
+.pattern-1{
+background: url(../img/dots.png);
+}
+.pattern-2{
+background: url(../img/stardust.png);
+}
+.pattern-3{
+background: url(../img/texture.png)
+}
 /* Imagery */
 
 
